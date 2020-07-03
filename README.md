@@ -1,3 +1,3 @@
 # first-portfolio
 
-https://patrashanu.github.io/first-portfolio/
+https://LianaBazhenova.github.io/first-portfolio/
